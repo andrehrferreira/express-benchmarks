@@ -151,11 +151,5 @@ yarn.lock
 #tap files
 .tap/
 
-# 0x
-profile-*
-
-# flamegraphs
-profile*
-
 # benchmark results
 results
